@@ -12,7 +12,7 @@
     <h2>
       Mama
     </h2>
-    <img src=""  >
+    <img src=""width=250px  >
         <h2>
       Papa
     </h2>
